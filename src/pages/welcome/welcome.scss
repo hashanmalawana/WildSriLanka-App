@@ -13,7 +13,10 @@ page-welcome {
     from { background-position: 0 0; }
     to { background-position: 100% 0; }
   }
+h6 {
+  position: relative;
 
+}
   .splash-info {
     position: relative;
     z-index: 2;
@@ -22,7 +25,7 @@ page-welcome {
   }
   .splash-logo {
     margin: auto;
-    background: url('../assets/img/sri png.png') repeat transparent;
+    background: url('../assets/img/wild png.png') repeat transparent;
     background-size: 100%;
     width: 128px;
     height: 128px;
