@@ -9,7 +9,7 @@ export class Items {
   defaultItem: any = {
     "name": "Sri Lankan Leopard",
     "profilePic": "assets/img/speakers/leopard.jpg",
-    "about": "Iconic animal in Sri Lanka.",
+    "about": "Danger with beauty.",
     "details" : "The Sri Lankan leopard or Ceylon leopard (Panthera pardus kotiya) is a leopard subspecues  native to Sri Lanka that was first described in 1956 by the Sri Lankan zoologist Deraniyagala. In 2008, the Sri Lankan leopard was listed as Endangered on the IUCN Red List. The wild population is roughly estimated at 700–950 individuals as of 2015.",
   };
 
@@ -19,7 +19,7 @@ export class Items {
       {
         "name": "Sri Lankan Elephant",
         "profilePic": "assets/img/speakers/elephantn.jpg",
-        "about": "Sri lankan Elephant.",
+        "about": "The proudest animal in wild.",
         "details" : "The Sri Lankan elephant (Elephas maximus maximus) is one of three recognized subspecies of the Asian elephant, and native to Sri Lanka. Since 1986, Elephas maximus has been listed as endangered  by IUCN as the population has declined by at least 50% over the last three generations, estimated to be 60–75 years. The species is pre-eminently threatened by habitat loss, degradation and fragmentation.Elephas maximus maximus is the type subspecies of the Asian elephant, first described byCarl Linneus under the binominal Elephas maximus in 1758.    The Sri Lankan elephant population is now largely restricted to the dry zone in the north, east and southeast of Sri Lanka. Elephants are present in Udawalawa National Park, Yala National Park, Lunugamwehera National Park, Minneriya National Park and Minneriya National Park but also live outside protected areas. It is estimated that Sri Lanka has the highest density of elephants in Asia. Human-elephant conflict is increasing due to conversion of elephant habitat to settlements and permanent cultivation."
       },
       {
@@ -31,7 +31,7 @@ export class Items {
       {
         "name": "Sri Lankan Leopard",
         "profilePic": "assets/img/speakers/leopard.jpg",
-        "about": "Iconic animal in Sri Lanka",
+        "about": "Danger with beauty",
         "details" : "The Sri Lankan leopard or Ceylon leopard (Panthera pardus kotiya) is a leopard subspecues  native to Sri Lanka that was first described in 1956 by the Sri Lankan zoologist Deraniyagala. In 2008, the Sri Lankan leopard was listed as Endangered on the IUCN Red List. The wild population is roughly estimated at 700–950 individuals as of 2015. "
       },
       {
@@ -63,7 +63,7 @@ export class Items {
       {
         "name": "Sri Lanka Crocodile",
         "profilePic": "assets/img/speakers/crocodileo.jpg",
-        "about": "Another one of the strongest animal in wild.",
+        "about": "Danger in the water.",
         "details" : "Mugger crocodiles have 19 upper teeth on each side; a snout that is 1⅓ to 1½ as long as broad at the base; a rough head but without any ridges; mandibular symphysis extending to the level of the fourth or fifth tooth; pre-maxillo-maxillary suture, on the palate, transverse, nearly straight, or curved forwards; and nasal bones separating the pnemaxillaries above. Four large nuchals forming a square, with a smaller one on each side; two pairs of smaller nuchals on a transverse series behind the occiput. Dorsal shield well separated from the nuchal, the scutes usually in 4, rarely in 6, longitudinal series, those of the two median usually considerably broader than long; 16 or 17 transverse series. Scales on limbs keeled. Fingers webbed at the base; outer toes extensively webbed. A serrated fringe on the outer edge of the leg. Adult blackish olive above: young pale olive, dotted and spotted with black."
       },
 
