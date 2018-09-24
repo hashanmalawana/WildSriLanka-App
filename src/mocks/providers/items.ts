@@ -72,6 +72,18 @@ export class Items {
         "profilePic": "assets/img/speakers/gs.jpg",
         "about": "The amazing squirrel.",
         "details" : "Grizzled Giant Squirrel is a large tree squirrel native to highland riparian forests of Sri Lanka. Ratufa macroura also found in Kerala and Tamil Nadu state of India. In Addition, Sri Lanka island is home to two species of crocodiles, giant python, Sri Lanka wood pigeon,Crested serpent eagle and white-bellied sea eagle."
+      },
+      {
+        "name": "Grizzled Giant Squirrel",
+        "profilePic": "assets/img/speakers/gs.jpg",
+        "about": "The amazing squirrel.",
+        "details" : "Grizzled Giant Squirrel is a large tree squirrel native to highland riparian forests of Sri Lanka. Ratufa macroura also found in Kerala and Tamil Nadu state of India. In Addition, Sri Lanka island is home to two species of crocodiles, giant python, Sri Lanka wood pigeon,Crested serpent eagle and white-bellied sea eagle."
+      },
+      {
+        "name": "Grizzled Giant Squirrel",
+        "profilePic": "assets/img/speakers/gs.jpg",
+        "about": "The amazing squirrel.",
+        "details" : "Grizzled Giant Squirrel is a large tree squirrel native to highland riparian forests of Sri Lanka. Ratufa macroura also found in Kerala and Tamil Nadu state of India. In Addition, Sri Lanka island is home to two species of crocodiles, giant python, Sri Lanka wood pigeon,Crested serpent eagle and white-bellied sea eagle."
       }
     ];
 
